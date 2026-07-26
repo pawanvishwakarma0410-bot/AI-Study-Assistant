@@ -92,16 +92,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Role Selection
-- Generated Answer
-
----
-
 ## 📚 Learning Outcomes
 
 - Learned Prompt Engineering
